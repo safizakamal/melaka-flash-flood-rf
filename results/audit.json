@@ -1,0 +1,11 @@
+{
+  "5_robustness": {
+    "time": "2026-10-22 13:31:48",
+    "rf_block_auc": 0.817,
+    "baseline_auc": 0.912,
+    "files": {
+      "robustness_block15km.json": "ad7bdbd55a33a586",
+      "permutation_importance.csv": "258cb2d714d8aac6"
+    }
+  }
+}
