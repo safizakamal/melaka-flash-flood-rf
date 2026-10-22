@@ -1,0 +1,6 @@
+   cff-version: 1.2.0
+   title: "Melaka flash-flood susceptibility: Random Forest workflow (APACE2026)"
+   authors:
+     - family-names: "Kamal Baharin"
+       given-names: "Safiza Suhana"
+   license: MIT
