@@ -1,0 +1,91 @@
+﻿SiteID,SiteName,AltNames,Lat,Lon,Precision,EventCnt
+S001,Kampung Bachang Darat,,2.234173,102.244826,Site,1
+S002,Kampung Peringgit,,2.217975,102.258887,Site,1
+S003,Kampung Pengkalan Batu,,2.246586,102.266153,Site,1
+S004,Kampung Sungai Putat,Sungai Putat,2.255956,102.264165,Site,4
+S005,Laluan 143,,2.260621,102.291785,Site,1
+S006,Kampung Pulau Kelapa,,2.222847,102.262415,Site,3
+S007,Kawasan hadapan SIRIM,"Batu Berendam, depan SIRIM",2.228539,102.262245,Site,2
+S008,Kawasan Industri Krubong,,2.291001,102.242178,Site,1
+S009,Persimpangan Lebuhraya SPA,Persimpangan,2.288176,102.235781,Site,2
+S010,Kampung Bukit Balai,,2.305740,102.269231,Site,2
+S011,"Kampung Lipat Kajang, Jasin",,2.275755,102.442986,Site,1
+S012,Jalan Ayer Keroh Lama,Hadapan Kilang Mamee,2.265199,102.284001,Site,1
+S013,Tiong Nam,Krubong,2.291256,102.244373,Site,1
+S014,Jalan Duyong,Jalan Duyong-Bukit Katil,2.205211,102.293729,Site,1
+S015,Taman Angkasa Nuri,,2.277875,102.250614,Site,1
+S016,Lebuhraya SPA,,2.283013,102.219376,Site,1
+S017,Jalan Krubong,Menghala Pantai Belimbiing,2.293845,102.245358,Site,1
+S018,Surau Kampung Kekabu,Jalan Melaka-Lubok Cina,2.412744,102.093689,Site,1
+S019,Masjid Ibnu Sina,Jalan Lama Sungai Jerneh,2.438237,102.094336,Site,1
+S020,Pantai Puteri Melaka,,2.248544,102.137255,Site,1
+S021,Jalan Melaka,Jalan Melaka-Lubok Cina,2.455382,102.072444,Site,1
+S022,Jalan Ayer Limau,Jalan Ayer Limau-Brisu,2.360518,102.113537,Site,1
+S023,Pekan Masjid Tanah,,2.358418,102.114004,Site,1
+S024,Taman Ria,Masjid Tanah,2.351832,102.114430,Site,2
+S025,Krubong Jaya,,2.298859,102.241326,Site,1
+S026,Alor Gajah,,2.381993,102.213053,Site,1
+S027,Jalan Masjid Tanah,Jalan Masjid Tanah-Alor Gajah,2.351746,102.115206,Site,1
+S028,Jalan Alor Gajah,Jalan Alor Gajah-Tampin,2.439612,102.239906,Site,1
+S029,Kota Syahbandar,,2.193240,102.230653,Site,1
+S030,Hatten Dataran Pahlawan,Hatten,2.189039,102.251765,Site,1
+S031,Duyong,,2.200060,102.304618,Site,1
+S032,Bukit Cina,,2.204176,102.259928,Site,1
+S033,Bandar Melaka,,2.205226,102.251550,Site,1
+S034,Kampung Chetti,,2.204151,102.239652,Site,2
+S035,Kampung Morten,,2.207223,102.250147,Site,2
+S036,Kampung Batu Hampar,,2.226084,102.260738,Site,2
+S037,Kampung Bukit Piatu,,2.207837,102.272686,Site,2
+S038,Kampung Solok Musai,,2.213850,102.270184,Site,2
+S039,Banda Kaba,,2.194395,102.251621,Site,2
+S040,Taman Wan Show,Bukit Cina,2.201346,102.255699,Site,2
+S041,Kampung Banda Hilir,,2.191894,102.250878,Site,2
+S042,Dewan Masjid Tanah,,2.352951,102.106374,Site,1
+S043,Taman Melawis ,Bukit Beruang,2.254681,102.273303,Site,1
+S044,Kampung Jeram,,2.371681,102.088674,Site,1
+S045,Kampung Paya Lebar,,2.412053,102.061773,Site,1
+S046,Kampung Ramuan China Besar,,2.405944,102.070791,Site,1
+S047,Kampung Parit Lampong,,2.245182,102.337771,Site,1
+S048,Kampung Tanjong Laboh,,2.238241,102.342549,Site,1
+S049,Limbongan,,2.204946,102.222411,Site,1
+S050,PP Sungai Udang,kawasan sekolah Sungai Udang,2.293855,102.136288,Site,1
+S051,Pekan Jasin,,2.313602,102.432539,Site,1
+S052,Stadium Jasin,,2.315645,102.432718,Site,1
+S053,Bukit Rambai Utama,,2.261136,102.191006,Site,1
+S054,Taman Rambai Jaya,,2.262155,102.185607,Site,2
+S055,Taman Rambai Utama,,2.258307,102.191158,Site,2
+S056,Kampung Bukit Datuk A,,2.255003,102.196174,Site,2
+S057,Kampung Pantai Kundur,,2.246800,102.140510,Site,3
+S058,Malim Jaya,,2.237989,102.234125,Site,1
+S059,Petronas Masjid Tanah,,2.347541,102.111311,Site,1
+S060,Jalan Besar Masjid Tanah,,2.353828,102.104716,Site,1
+S061,Kampung Bukit Beringin,,2.351309,102.103461,Site,1
+S062,Masjid Tanah Ria,,2.351641,102.116229,Site,1
+S063,Kampung Sungai Siput,"Lubok Cina, Alor Gajah",2.443288,102.115000,Site,1
+S064,Tebong,Tebong ke Batang Melaka,2.456026,102.319827,Site,1
+S065,Sungai Pantai,Peringgit,2.224551,102.253358,Site,1
+S066,Padang Sebang,,2.421193,102.253089,Site,1
+S067,Kampung Kilang Berapi,"Merlimau, Jasin",2.148721,102.425491,Site,1
+S068,Lubuk Buaya,"Serkam, Jasin",2.145000,102.374000,Site,1
+S069,Paya Redan,"Paya Redan, Melaka Tengah",2.202827,102.379625,Site,1
+S070,Bukit Nibong,"Bukit Nibong, Melaka Tengah",2.201285,102.360592,Site,1
+S071,Paya Dalam,"Paya Dalam, Melaka Tengah",2.195715,102.352015,Site,1
+S072,Bukit Durian,"Bukit Durian, Melaka Tengah",2.186706,102.348560,Site,1
+S073,Bukit Duyong,"Bukit Duyong, Melaka Tengah",2.212740,102.297692,Site,1
+S074,Jambatan Duyong,,2.196879,102.290675,Site,1
+S075,Duyong Tengah,,2.203080,102.293657,Site,1
+S076,Gedong Lalang,,2.255659,102.182634,Site,1
+S077,Pernu,,2.160798,102.325303,Site,1
+S078,Bukit Meta,,2.165678,102.326234,Site,1
+S079,Padang Temu,,2.182905,102.278115,Site,1
+S080,Masjid Tanah,,2.351934,102.107479,Site,1
+S081,Depan kilang Mamee,,2.252064,102.295078,Site,1
+S082,Jalan Parit Lampong,"Tehel, Jasin",2.243809,102.336581,Site,1
+S083,Jasin,,2.305810,102.422339,District,4
+S084,Alor Gajah,,2.383453,102.210780,District,2
+S085,Melaka Tengah,,2.230145,102.245307,District,4
+S086,Sungai Rambai,,2.124541,102.493687,Locality,1
+S087,Bukit Rambai,,2.253756,102.180313,Locality,2
+S088,Masjid Tanah,,2.352225,102.108979,Locality,1
+S089,Klebang,,2.220201,102.201505,Locality,1
+S090,Tanjung Kling,,2.222761,102.161946,Locality,1
